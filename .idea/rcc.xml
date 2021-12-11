@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReducerSettings" ACTION_TEMPLATE="/templates/reducer/actions.ts.mustache" INDEX_TEMPLATE="/templates/reducer/index.ts.mustache" ACTION_TYPES_TEMPLATE="/templates/reducer/action-types.ts.mustache" TYPES_TEMPLATE="/templates/reducer/types.ts.mustache" />
+</project>
